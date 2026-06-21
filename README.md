@@ -5,13 +5,17 @@ I am a dedicated C/C++ developer with a strong focus on system-level programming
 
 ## Core Competencies
 - **Primary Stack**: C++17 development with extensive use of modern and industry-proven libraries, including:
-  - **Qt 5** (widgets and MVP at advanced level, networking, multithreading)
-  - **Boost** (asio, qi, threads, smart pointers, algorithms, serialization, etc.)
-  - **OpenSSL** (cryptography and secure communications)
-  - **OpenCV** (mostly, in object detection)
-  - **Nlohmann/json** (in exchange or saves core)
-  - **Google Test Framework (GTest)**
-- **Tooling**: Proficient in GNU toolchain, CMake, GDB, Valgrind, and performance profiling tools.
+  - **Qt 5** in GUI apps with widgets and MVP (i'm at advanced level), networking, multithreading, etc.
+  - **PostgreSQL** in all medium / large projects with DB
+  - **SQLite** in small projects
+  - **Boost** asio, qi, threads, smart pointers, algorithms, serialization, etc. in some cases
+  - **OpenSSL** in cryptography, file encryption, custom protocols and secure communications
+  - **OpenCV** in object detection
+  - **Nlohmann/json** in exchange protocols (if QJsonDocument is unavailable) or saves core
+  - **Google Test Framework (GTest)** for every unit and integration tests
+  - **Drogon Framework** in HTTP projects, every time with it's PostgreSQL interface
+  - **Docker** and **Docker Compose** for backends and DB, if it's available
+- **Tooling**: Proficient in GNU toolchain, CMake, GDB, Valgrind, and performance profiling tools tried some CI/CD tool configuring.
 
 ## Current Focus & Activities
 - **Active Development**: Currently working under some private projects and refining, modernizing my graduate project, **RemoteObjectDetector**, focusing on architecture improvements, code optimization, and feature enhancement.
